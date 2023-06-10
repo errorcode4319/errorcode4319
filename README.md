@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ErrorCode4319</h1>
 
-- 📝 I regularly write articles on [https://errorcode4319.github.io](errorcode4319.github.io)
+- 📝 I regularly write articles on [errorcode4319.github.io](https://errorcode4319.github.io)
 
 - 💬 Ask me about **C++ or Linux....**
 
